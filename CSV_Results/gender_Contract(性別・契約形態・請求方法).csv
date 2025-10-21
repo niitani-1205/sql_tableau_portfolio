@@ -1,0 +1,13 @@
+gender,Contract,PaperlessBilling,total,churn_count,churn_rate
+Female,Month-to-month,No,643,212,32.97
+Female,Month-to-month,Yes,1282,630,49.14
+Female,One year,No,311,22,7.07
+Female,One year,Yes,407,53,13.02
+Female,Two year,No,448,6,1.34
+Female,Two year,Yes,397,16,4.03
+Male,Month-to-month,No,646,194,30.03
+Male,Month-to-month,Yes,1304,619,47.47
+Male,One year,No,362,26,7.18
+Male,One year,Yes,393,65,16.54
+Male,Two year,No,462,9,1.95
+Male,Two year,Yes,388,17,4.38
